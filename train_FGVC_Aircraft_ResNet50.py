@@ -317,7 +317,7 @@ if __name__ == '__main__':
 
     train(nb_epoch=200,             # number of epoch
              batch_size=16,         # batch size
-             store_name='Results1_FGVC_Aircraft_ResNet50_ORI_Review3(3)',     # folder for output
+             store_name='Results_FGVC_Aircraft_ResNet50',     # folder for output
              resume=False,          # resume training from checkpoint
              start_epoch=0,         # the start epoch number when you resume the training
              model_path='',
