@@ -313,7 +313,7 @@ def train(nb_epoch, batch_size, store_name, resume=False, start_epoch=0, model_p
 
 if __name__ == '__main__':
 
-    data_path = '/mnt/ssd/LIU/car_ims_organized'
+    data_path = '<the-path-to-dataset>'
 
     train(nb_epoch=200,             # number of epoch
              batch_size=16,         # batch size
