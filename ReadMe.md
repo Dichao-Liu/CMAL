@@ -1,6 +1,6 @@
 # CMAL-Net
 
-Code release for 'Learn from Each Other to Classify Better: Cross-layer Mutual Attention Learning for Fine-grained Visual Classification'
+Code release for 'Learn from Each Other to Classify Better: Cross-layer Mutual Attention Learning for Fine-grained Visual Classification'. You may check more details in our paper published in Pattern Recognition if you are interested in our work.
 
 ![enter image description here](https://github.com/Dichao-Liu/CMAL/blob/main/CMAL.png)
  
@@ -72,3 +72,11 @@ Code
 ### Training
 
 Run the scripts for training, such as `python train_Stanford_Cars_TResNet_L.py`.
+
+### Acknowledgement
+ Part of the training code is inspired by [Du *et al*](https://github.com/PRIS-CV/PMG-Progressive-Multi-Granularity-Training), and many thanks to them.
+ 
+ ## Citation
+```
+
+```
