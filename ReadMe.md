@@ -1,5 +1,6 @@
 # CMAL-Net
-
+![enter image description here](https://github.com/Dichao-Liu/CMAL/blob/main/CMAL.png)
+ 
 
 ### Environment
 
@@ -43,7 +44,7 @@ dataset folder
 ```
 * (2) modify the path to the dataset folders.
 
-# Dependencies
+### Dependencies
 
 * (1) Inplace-ABN
 
