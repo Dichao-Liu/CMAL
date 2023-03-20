@@ -1,4 +1,7 @@
 # CMAL-Net
+
+Code release for 'Learn from Each Other to Classify Better: Cross-layer Mutual Attention Learning for Fine-grained Visual Classification'
+
 ![enter image description here](https://github.com/Dichao-Liu/CMAL/blob/main/CMAL.png)
  
 
