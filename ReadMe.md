@@ -76,7 +76,7 @@ Run the scripts for training, such as `python train_Stanford_Cars_TResNet_L.py`.
 ### Acknowledgement
  Part of the training code is inspired by [Du *et al*](https://github.com/PRIS-CV/PMG-Progressive-Multi-Granularity-Training), and many thanks to them.
  
- ## Citation
+### Citation
 ```
 
 ```
