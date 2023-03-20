@@ -1,5 +1,7 @@
+# CMAL-Net
 
-# Environment
+
+### Environment
 
 This source code was tested in the following environment:
 
@@ -13,7 +15,7 @@ Ubuntu 18.04.5 LTS
 
 NVIDIA GeForce RTX 3080 Ti
 
-# Dataset
+### Dataset
 
 * (1) Download the FGVC-Aircraft, Stanford Cars, and Food-11 datasets and organize the structure as follows:
 ```
@@ -63,6 +65,6 @@ Code
 ├── src
 ```
 
-# Training
+### Training
 
 Run the scripts for training, such as `python train_Stanford_Cars_TResNet_L.py`.
