@@ -1,6 +1,7 @@
+
 # CMAL-Net
 
-Code release for 'Learn from Each Other to Classify Better: Cross-layer Mutual Attention Learning for Fine-grained Visual Classification'. You may check more details in our paper published in Pattern Recognition if you are interested in our work.
+Code release for 'Learn from Each Other to Classify Better: Cross-layer Mutual Attention Learning for Fine-grained Visual Classification'. You may check more details in our paper published in [*Pattern Recognition*](https://doi.org/10.1016/j.patcog.2023.109550) if you are interested in our work.
 
 ![enter image description here](https://github.com/Dichao-Liu/CMAL/blob/main/CMAL.png)
  
@@ -78,5 +79,15 @@ Run the scripts for training, such as `python train_Stanford_Cars_TResNet_L.py`.
  
 ### Citation
 ```
-
+@article{LIU2023109550,
+title = {Learn from each other to Classify better: Cross-layer mutual attention learning for fine-grained visual classification},
+journal = {Pattern Recognition},
+volume = {140},
+pages = {109550},
+year = {2023},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2023.109550},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320323002509},
+author = {Dichao Liu and Longjiao Zhao and Yu Wang and Jien Kato}
+}
 ```
